@@ -1,0 +1,180 @@
+
+
+			DELHI AIRPORT : 30 m Base line
+
+
+Time	RVR	 MOR	RVR	MOR	BLM	Trf	 Ref(v)	PD(v)
+	(limited)	(limited)	(actual)	(actual)
+
+
+
+			DELHI AIRPORT : 30 m Base line
+
+
+Time	RVR	 MOR	RVR	MOR	BLM	Trf	 Ref(v)	PD(v)
+	(limited)	(limited)	(actual)	(actual)
+
+
+
+			DELHI AIRPORT : 30 m Base line
+
+
+Time	RVR	 MOR	RVR	MOR	BLM	Trf	 Ref(v)	PD(v)
+	(limited)	(limited)	(actual)	(actual)
+
+
+
+			DELHI AIRPORT : 30 m Base line
+
+
+Time	RVR	 MOR	RVR	MOR	BLM	Trf	 Ref(v)	PD(v)
+	(limited)	(limited)	(actual)	(actual)
+
+
+
+			DELHI AIRPORT : 30 m Base line
+
+
+Time	RVR	 MOR	RVR	MOR	BLM	Trf	 Ref(v)	PD(v)
+	(limited)	(limited)	(actual)	(actual)
+
+03:21:51	2000	3000	1659	9955	354	0.99100	5.07578	6.18692		
+03:22:01	2000	3000	3318	9955	356	0.99100	5.07602	6.19183		
+03:22:11	2000	3000	3333	9955	356	0.99100	5.07602	6.19183		
+03:24:22	2000	3000	3333	9955	358	0.99100	5.07418	6.19819		
+03:24:32	2000	3000	3333	9955	359	0.99100	5.07445	6.19611		
+03:24:42	2000	3000	3333	9955	359	0.99100	5.07471	6.20452		
+03:24:52	2000	3000	3333	9955	358	0.99100	5.07490	6.20293		
+03:25:02	2000	3000	3333	9955	358	0.99100	5.07490	6.20293		
+03:25:12	2000	3000	3333	9955	358	0.99100	5.07490	6.20293		
+03:28:04	2000	3000	3333	9955	364	0.99100	5.07254	6.19577		
+03:28:14	2000	3000	3333	9955	364	0.99100	5.07254	6.19577		
+03:28:24	2000	3000	3333	9955	364	0.99100	5.07254	6.19577		
+
+
+			DELHI AIRPORT : 30 m Base line
+
+
+Time	RVR	 MOR	RVR	MOR	BLM	Trf	 Ref(v)	PD(v)
+	(limited)	(limited)	(actual)	(actual)
+
+
+
+			DELHI AIRPORT : 30 m Base line
+
+
+Time	RVR	 MOR	RVR	MOR	BLM	Trf	 Ref(v)	PD(v)
+	(limited)	(limited)	(actual)	(actual)
+
+
+
+			DELHI AIRPORT : 30 m Base line
+
+
+Time	RVR	 MOR	RVR	MOR	BLM	Trf	 Ref(v)	PD(v)
+	(limited)	(limited)	(actual)	(actual)
+
+
+
+			DELHI AIRPORT : 30 m Base line
+
+
+Time	RVR	 MOR	RVR	MOR	BLM	Trf	 Ref(v)	PD(v)
+	(limited)	(limited)	(actual)	(actual)
+
+
+
+			DELHI AIRPORT : 30 m Base line
+
+
+Time	RVR	 MOR	RVR	MOR	BLM	Trf	 Ref(v)	PD(v)
+	(limited)	(limited)	(actual)	(actual)
+
+
+
+			DELHI AIRPORT : 30 m Base line
+
+
+Time	RVR	 MOR	RVR	MOR	BLM	Trf	 Ref(v)	PD(v)
+	(limited)	(limited)	(actual)	(actual)
+
+
+
+			DELHI AIRPORT : 30 m Base line
+
+
+Time	RVR	 MOR	RVR	MOR	BLM	Trf	 Ref(v)	PD(v)
+	(limited)	(limited)	(actual)	(actual)
+
+
+
+			DELHI AIRPORT : 30 m Base line
+
+
+Time	RVR	 MOR	RVR	MOR	BLM	Trf	 Ref(v)	PD(v)
+	(limited)	(limited)	(actual)	(actual)
+
+
+
+			DELHI AIRPORT : 30 m Base line
+
+
+Time	RVR	 MOR	RVR	MOR	BLM	Trf	 Ref(v)	PD(v)
+	(limited)	(limited)	(actual)	(actual)
+
+
+
+			DELHI AIRPORT : 30 m Base line
+
+
+Time	RVR	 MOR	RVR	MOR	BLM	Trf	 Ref(v)	PD(v)
+	(limited)	(limited)	(actual)	(actual)
+
+
+
+			DELHI AIRPORT : 30 m Base line
+
+
+Time	RVR	 MOR	RVR	MOR	BLM	Trf	 Ref(v)	PD(v)
+	(limited)	(limited)	(actual)	(actual)
+
+
+
+			DELHI AIRPORT : 30 m Base line
+
+
+Time	RVR	 MOR	RVR	MOR	BLM	Trf	 Ref(v)	PD(v)
+	(limited)	(limited)	(actual)	(actual)
+
+
+
+			DELHI AIRPORT : 30 m Base line
+
+
+Time	RVR	 MOR	RVR	MOR	BLM	Trf	 Ref(v)	PD(v)
+	(limited)	(limited)	(actual)	(actual)
+
+
+
+			DELHI AIRPORT : 30 m Base line
+
+
+Time	RVR	 MOR	RVR	MOR	BLM	Trf	 Ref(v)	PD(v)
+	(limited)	(limited)	(actual)	(actual)
+
+
+
+			DELHI AIRPORT : 30 m Base line
+
+
+Time	RVR	 MOR	RVR	MOR	BLM	Trf	 Ref(v)	PD(v)
+	(limited)	(limited)	(actual)	(actual)
+
+
+
+			DELHI AIRPORT : 30 m Base line
+
+
+Time	RVR	 MOR	RVR	MOR	BLM	Trf	 Ref(v)	PD(v)
+	(limited)	(limited)	(actual)	(actual)
+

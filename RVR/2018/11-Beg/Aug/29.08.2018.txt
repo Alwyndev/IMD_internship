@@ -1,0 +1,16 @@
+
+
+			DELHI AIRPORT : RWY 11 Beg
+
+
+Time	RVR	 MOR	RVR	MOR	BLM	Trf	 DC(v)	PD(v)
+	(limited)	(limited)	(actual)	(actual)
+
+
+
+			DELHI AIRPORT : RWY 11 Beg
+
+
+Time	RVR	 MOR	RVR	MOR	BLM	Trf	 DC(v)	PD(v)
+	(limited)	(limited)	(actual)	(actual)
+

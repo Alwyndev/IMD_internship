@@ -1,1 +1,1 @@
-# IMD_internship
+# IMD_Internship
